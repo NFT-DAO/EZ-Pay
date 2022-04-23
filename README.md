@@ -1,4 +1,4 @@
-## Welcome to EZ Pay API Connector
+# Welcome to EZ Pay API Connector
 
 This project is free to use and is open source.  The project was funded by Cardano in Fund 5 and completed in April 2022.
 
@@ -15,7 +15,7 @@ Once you have your account keys, the sample file .env allows you to insert your 
 As with ALL programs around money and assets, please guard your Paypal, Stripe and Venmo keys - do not share them with anyone, which includes
 NFT DAO.  We do not need any aplication key for you to use this program.
 
-# CARDANO FOCUSED PAYMENT CLIENT
+## CARDANO FOCUSED PAYMENT CLIENT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
