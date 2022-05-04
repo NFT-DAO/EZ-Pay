@@ -6,6 +6,8 @@ As this is a backend system to enable payments with Paypal, Stripe and Venmo we 
 
 We have also created a video showing how this front end demo works: https://www.youtube.com/watch?v=GDkfWYnr1Wg&ab_channel=NikaRevazishvili
 
+Please also see the EZ Pay Back End API system that provides the programming core for your web application: https://github.com/NFT-DAO/EZ-Pay---Backend
+
 IMPORTANT NOTE
 
 You will need to have your own Stripe, Paypal and/or Venmo account in order to use this service.  Each account can be set up relatively easily at their
